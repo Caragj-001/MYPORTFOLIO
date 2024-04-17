@@ -70,3 +70,9 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
+p{
+    width: 50%;
+    padding:auto;
+    margin:auto;
+    text-align:center;
+}
