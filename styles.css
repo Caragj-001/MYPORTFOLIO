@@ -57,7 +57,9 @@ section {
 
 h2 {
     margin-top: 2%;
-    margin-left: 45.5%;
+    padding:auto;
+    margin:auto;
+    text-align:center;
     font-size: 250%;
 }
 
